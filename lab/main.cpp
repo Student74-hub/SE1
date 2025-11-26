@@ -1,3 +1,7 @@
+//
+// This program is just an example one under VCS.
+// Author: Vasiliy, 2025.
+//
 #include <iostream>
 using namespace std;
 
