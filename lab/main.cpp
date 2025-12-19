@@ -1,6 +1,6 @@
 //
 // This program is just an example one under VCS.
-// Author: Vasiliy, 2025.
+// Author: Mystafin Valeriy Alekseevich, KE-417.
 //
 #include <iostream>
 using namespace std;
